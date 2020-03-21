@@ -19,9 +19,3 @@ def current_player(board)
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
-# for i in len(board):
-# => if board[i] == " ":
-    ##  count += 1
-
-  #count
